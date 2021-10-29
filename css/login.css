@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(to right, 
+    rgb(0, 0, 207), 
+    rgb(180, 97, 3));
+}
+
+.login {
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+    width: 500px;
+    height: 300px;
+ 
+}
+
+.botao{
+    background-color: #fff!important;
+    color: #000!important;
+}

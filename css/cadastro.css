@@ -1,0 +1,10 @@
+
+.form{
+    background-color: rgba(0,0,0,0.7);
+    color: white;
+    width: 750px;
+    height: 650px;       
+    border-radius: 15px;
+    border: none!important;
+    font-size: 20px!important;
+}

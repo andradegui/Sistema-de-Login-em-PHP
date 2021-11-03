@@ -1,0 +1,49 @@
+body{
+    background-image: linear-gradient(to right, 
+    rgb(0, 0, 207), 
+    rgb(180, 97, 3));
+}
+
+.login {
+    background-color: rgba(197, 109, 109, 0.7);
+    color: white;
+    width: 550px;
+    height: 350px;    
+    margin-bottom: 50%;
+    margin-left: 50%;
+    transform: translate(-50%, 50%);
+    border-radius: 15px;
+    border: none!important;
+    font-size: 20px!important;
+ 
+}
+
+input {
+    border: none!important;
+    outline: none!important;
+    padding-left: 5px;
+}
+
+.botao{
+    background:linear-gradient(to left, rgb(0, 0, 207), 
+    rgb(180, 97, 3))!important;
+    color: #FFF!important;
+    border: none!important;
+    outline: none!important;
+    border-radius: 10px; 
+    
+}
+
+.botao:hover {
+    background:linear-gradient(to right, rgb(0, 0, 207), 
+    rgb(180, 97, 3))!important;
+    color: #fff!important;
+    transition: 0.5s;
+    border: none!important;
+    outline: none!important;
+    letter-spacing: 0.2px;    
+}
+
+.white {
+ color: #FFF!important;
+}

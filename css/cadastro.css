@@ -2,9 +2,20 @@
 .form{
     background-color: rgba(0,0,0,0.7);
     color: white;
-    width: 750px;
-    height: 650px;       
+    padding: 80px;      
     border-radius: 15px;
     border: none!important;
     font-size: 20px!important;
 }
+
+.inputUser{
+   background: none!important;
+   border: none !important;
+   border-bottom: 1px solid #fff!important;
+   outline: none!important;
+   color: #fff!important;   
+   width: 100% !important;
+   letter-spacing: 2px!important;
+}
+
+
